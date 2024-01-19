@@ -108,7 +108,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/Food-Demand-Forecasting.git
+    https://github.com/Prat1331/DemandPrediction-master.git
     ```
 
 2. Install required dependencies:
